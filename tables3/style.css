@@ -1,0 +1,59 @@
+tr th{
+	text-align: center;
+	background:#7FFFD4;
+}
+tr td{
+	text-align: center;
+}
+tr.t{
+	background:#7FFF00;
+
+}
+
+tr.t2{
+	background:#FFD700;
+}
+tr.t3{
+	background:#FFB6C1;
+}
+tr.t4{
+	background:#87CEFA;
+}
+table{
+	margin-left: 500px;
+	width:30%;
+	height: 100px;
+}
+h2{
+	text-align: center;
+}
+
+
+tr.ta th{
+	background:#87CEFA;
+}
+
+td.ta2{
+	background:#0000CD;
+}
+td.ta3{
+	background:#FFFF00;
+}
+td.ta4{
+	background:#ADFF2F;
+}
+td.ta5{
+	background:#FF7F50;
+}
+td.ta6{
+	background:#87CEFA;
+}
+td.ta7{
+	background:#FFB6C1;
+}
+td.ta8{
+	background:#800000;
+}
+td.ta9{
+	background:#00FF00;
+}

@@ -1,0 +1,32 @@
+body{
+	width:100%;
+	height:auto;
+	text-align:center;
+	background:#FFFF00;
+}
+
+div h3{
+
+	color: red;
+}
+.de {
+    padding-bottom: 15px;
+}
+.en {
+    padding-bottom: 15px;
+}
+div {
+    padding-top: 15px;
+}
+.at {
+    padding: 16px;
+}
+button {
+    width: 157px;
+    height: 43px;
+    border-radius: 36px;
+    border: none;
+    color: white;
+    background-color: #0FF;
+    font-size: 18px;
+}
